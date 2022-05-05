@@ -1,0 +1,17 @@
+:root {
+    color-scheme: dark;
+    --color-black: #000;
+    --color-gray-1: #808080;
+    --color-gray-2: #bababa;
+    --color-white: #fff;
+    --space-050: .5rem;
+    --space-100: 1rem;
+    --space-150: 1.5rem;
+    --space-200: 2rem;
+    --space-300: 3rem;
+    --space-350: 3.5rem;
+    --space-400: 4rem;
+    --space-500: 5rem;
+    --space-600: 6rem;
+}
+
